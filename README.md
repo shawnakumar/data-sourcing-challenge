@@ -1,7 +1,12 @@
 # api-testing
-## Obective
-    ### Build and test API's for NYT and TMDB movie data
-    ### Review API responses and see the data returns
+## Objective
+    ## Access the New York Times API and TMDB movie API's 
+    #### 1. Access the New York Times API
+    #### 2. Access the TMDB API
+    #### 3. Merge and Clean the Data for Export
+    
+
+
 
     
 
